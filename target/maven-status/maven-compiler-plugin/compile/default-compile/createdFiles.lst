@@ -1,0 +1,13 @@
+com\appServer\api\test\Test.class
+com\appServer\SpringBoot.class
+com\appServer\api\LexBFSApi.class
+com\LexBFS\graph\test\testCreating.class
+com\LexBFS\algorithms\increaseAlgorithm\LexBFS.class
+com\LexBFS\vertex\vertexService\VertexService.class
+com\LexBFS\algorithms\linearAlgoritm\LexBFSLinTime.class
+com\appConsole\AppConsole.class
+com\LexBFS\graph\service\GraphService.class
+com\LexBFS\algorithms\increaseAlgorithm\test\MainTwo.class
+com\LexBFS\graph\constMatrix\Matrix.class
+com\LexBFS\vertex\Vertex.class
+com\LexBFS\algorithms\linearAlgoritm\test\mainLinear.class
