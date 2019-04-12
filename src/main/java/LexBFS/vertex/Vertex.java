@@ -6,7 +6,7 @@ import java.util.List;
 public class Vertex {
     private String name;
     private Integer value = 1;
-    List<Vertex> neighbours = new LinkedList<Vertex>();
+    private List<Vertex> neighbours = new LinkedList<Vertex>();
     private boolean isVisited = false;
 
     public Vertex(String name) {
